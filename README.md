@@ -1,2 +1,2 @@
 # SAS_MODELS
-Models various done while doing the analysis in SAS
+Various model executed in the SAS 
